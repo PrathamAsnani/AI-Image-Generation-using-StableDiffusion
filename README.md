@@ -1,4 +1,5 @@
-🎨 Text-to-Image Generation using Stable Diffusion XL (SSD-1B)
+🎨 Text-to-Image Generation using Stable Diffusion XL 
+
 📌 Project Overview
 This project demonstrates a Text-to-Image Generation system using Stable Diffusion XL (SDXL) powered by the segmind/SSD-1B model from Hugging Face.
 Users can generate high-quality, realistic images from natural language prompts through an interactive Gradio web interface.
